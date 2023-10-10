@@ -1,0 +1,18 @@
+{
+    "mensaje": {
+      "remite": {
+        "nombre": "Juan Pérez",
+        "email": "juan.perez@example.com"
+      },
+      "destinatario": {
+        "nombre": "María López",
+        "email": "maria.lopez@example.com"
+      },
+      "asunto": "Reunión de trabajo",
+      "texto": {
+        "parrafo1": "Hola María,\n\nEspero que estés bien. Quería hablar contigo sobre la próxima reunión de trabajo que tenemos programada para el viernes a las 10:00 AM. ¿Puedes confirmar tu asistencia?",
+        "parrafo2": "Gracias,\nJuan"
+      }
+    }
+  }
+  
